@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	go tornado.Run()
+	tornado.Run()
 }
